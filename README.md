@@ -6,6 +6,8 @@ Example of using [`use-analytics`](https://www.npmjs.com/package/use-analytics) 
 
 [Docs site](https://getanalytics.io/utils/react-hooks/)
 
+[use-analytics source code](https://github.com/DavidWells/analytics/tree/master/packages/use-analytics)
+
 ## Install
 
 ```
