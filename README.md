@@ -1,4 +1,4 @@
-# Use Analytics React Tutorial
+# Use [Analytics](https://github.com/DavidWells/analytics) React Tutorial
 
 Example of using [`use-analytics`](https://www.npmjs.com/package/use-analytics) hooks with React router v6.
 
